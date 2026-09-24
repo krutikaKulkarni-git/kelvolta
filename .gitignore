@@ -1,4 +1,4 @@
-# Large data files (output)
+# Large data files (keep locally, don't push)
 *.csv
 *.png
 
@@ -6,19 +6,11 @@
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
 .Python
 
 # IDE
 .vscode/
 .idea/
-*.swp
-*.swo
 
 # OS
 .DS_Store
-Thumbs.db
-
-# Virtual environments
-venv/
-env/
